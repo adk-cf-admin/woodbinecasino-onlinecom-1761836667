@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#141414",
+            "lang-select-color": "#222829",
+            "bg-light": "#141414",
+            "welcome-bonus-bg": "#999494",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#141414",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B1012A",
+            "yellow": "#d7811d",
+            "yellow-button": "#B1012A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#999494",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#B1012A",
+            "faq-label": "#999494",
+            "bg-footer": "#141414",
+            "copyright": "#e7e7d5",
+            "starColor": "#d7811d",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/10",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Woodbine Casino",
+            "title": "Woodbine Casino Toronto | Games, Shows, Hotel & Bonuses",
+            "description": "Discover Woodbine Casino in Toronto: slots, table games, VIP areas, concerts, restaurants, and a luxury hotel. Open 24\/7 with exclusive bonuses and unforgettable entertainment!",
+            "canonical": "woodbinecasino-online.com  ",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/280",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/281",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/282"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/283",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Woodbine Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Woodbine Casino \u2013 Gaming, Entertainment & Luxury in Toronto",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/278",
+            "imageSizeModifier": 15,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/279",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Modern design and luxurious interior",
+                "Over 4,800 slot machines available",
+                "145+ tables with classic games",
+                "Direct access to Woodbine Racetrack",
+                "Hotel with 400+ stylish rooms",
+                "Restaurants with diverse global cuisine",
+                "Open 24\/7 with live entertainment"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Woodbine Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/285",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Woodbine Casino App",
+            "mobileGooglePlayImageTitle": "Woodbine Casino App",
+            "mobileIosImageTitle": "Woodbine Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Woodbine Casino",
+                "description1": "",
+                "items": [
+                    "Jackpot up to 3.2 million CAD",
+                    "300% bonus + 35 free spins",
+                    "Slots pay up to $100"
+                ],
+                "description2": "Woodbine Casino is a modern entertainment resort combining gaming, comfort, and style. It offers a wide selection of slot machines and table games, along with a convenient hotel and dining options. Guests can enjoy live shows, relax in lounge areas, and try their luck in a luxurious setting. Its location next to the racetrack makes it a unique destination. The casino operates 24\/7, providing nonstop excitement.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/286",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " It\u2019s the perfect place for those seeking thrill, comfort, and memorable experiences."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Woodbine Casino \u2014 Luxury, Thrill, and Comfort in Toronto",
+                "description": "<p>Woodbine Casino, located beside the iconic Woodbine Racetrack, is a premier resort-style destination that blends gaming, relaxation, and entertainment. As one of Canada\u2019s largest casinos, it features thousands of slot machines, dozens of classic table games, and modern electronic gaming options. The spacious gaming halls are designed with contemporary elegance, offering a thrilling yet comfortable experience for players of all levels.<\/p>\n<br>\n<p>The resort includes a luxury hotel with over 400 rooms, spa facilities, and a fitness center. Guests can enjoy a wide range of dining options, from Asian and Spanish cuisine to international favorites. Bars serve cocktails, wines, and snacks, while lounge areas provide a cozy retreat between games. Live concerts, shows, and special events \u2014 including tournaments and themed nights \u2014 are held regularly, adding to the vibrant atmosphere.<\/p>\n<br>\n<p>Woodbine Casino offers generous bonus programs for both new and returning players. Welcome packages include free spins and boosted deposits, while the Great Canadian Rewards loyalty program allows guests to earn points redeemable for slot play, dining, and exclusive perks. Members enjoy access to personalized offers, gifts, and seasonal promotions.<\/p>\n<br>\n<p>This is a place where excitement meets elegance, and every visit becomes a memorable experience. Woodbine Casino is the perfect choice for those seeking more than just gaming \u2014 it\u2019s a full-scale escape into luxury, entertainment, and unforgettable moments.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisitor Rules and Dress Code\n<\/h3>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entry Requirements<\/h4>\n\n\n        <ul>\n            <li>\u2022 Minimum age to enter the casino: 19 years<\/li>\n            <li>\u2022 Must present valid government-issued photo ID\n<\/li>\n            <li>\u2022 Under 19 allowed only at racetrack during races, not in casino area\n<\/li>\n            <li>\u2022 Casino operates 24\/7, table games may have limited hours\n\n<\/li>\n\t   \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n <p>Not allowed<\/p>\n        <ul>\n            <li>\u2022 Athletic wear (shorts, tank tops, tracksuits)<\/li>\n            <li>\u2022 Flip-flops or beach footwear\n<\/li>\n            <li>\u2022 Torn or dirty clothing\n<\/li>\n <li>\u2022 Baseball caps in gaming areas\n<\/li>\n            \n        <\/ul>\n        <br>\n\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n   <p> Smart Casual recommended<\/p>\n\n        <ul>\n            <li>\u2022 Allowed: collared shirts, trousers, neat jeans, dresses, skirts\n<\/li>\n            <li>\u2022 Shoes: closed and presentable\n<\/li>\n         \n        <\/ul>\n        <br>\n\n    <\/div>\n<\/div>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Additional Rules<\/h4>\n        <ul>\n            <li>\u2022 No outside alcohol or food permitted\n<\/li>\n            <li>\u2022 Photography and video recording restricted in gaming zones\n<\/li>\n            <li>\u2022 Smoking only in designated areas\n<\/li>\n<li>\u2022 Follow responsible gaming guidelines\n\n<\/li>\n        <\/ul>\n        <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGreat Canadian Rewards Loyalty Program\n<\/h3>\n\n<p> Great Canadian Rewards is a unified loyalty program for all Great Canadian Entertainment properties in Ontario, including Woodbine Casino. Membership is free, and you can sign up online or at Guest Services.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">How to Earn<\/h4>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 20px;\">Reward Points\n\n<\/h4>\n            <ul>\n            <li>\u2022 Earned on slots and electronic tables\n<\/li>\n            <li>\u2022 100 points = $1 in Slot Play\n\n\n<\/li>\n   \n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 20px;\">Comp Dollars\n\n<\/h4>\n       <ul>\n            <li>\u2022 Earned on all gaming activity (slots, electronic and live tables)\n<\/li>\n            <li>\u2022 Redeemable for dining, hotel stays, show tickets\n\n\n<\/li>\n            \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 20px;\">Tier Credits\n<\/h4>\n        <ul>\n            <li>\u2022 Determine your tier (Club, Preferred, Premium, Summit)\n<\/li>\n            <li>\u2022 Earned on all gaming activity except Slot Play<\/li>\n      \n        <\/ul>\n        <br>\n\n    \n    <\/div>\n<\/div>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">How to Redeem<\/h4>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 20px;\">Reward Points<\/h4>\n\n<p>\u2022 convert to Slot Play at machines<\/p>\n        <br>\n  <h4 style = \"font-weight: bold; font-size: 20px;\">Comp Dollars<\/h4>\n<p> \u2022 use at restaurants, hotels, entertainment venues<\/p>\n\n        <br>\n \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 20px;\">Expiry:<\/h4>\n<p> \u2022  6 months of inactivity will forfeit points and dollars<\/p>\n\n        <br>\n    <\/div>\n<\/div>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Tiers and Benefits<\/h4>\n\n<p> 1. Club (0\u2013499 credits): Basic perks, dining discounts<\/p>\n<p> 2. Preferred (500\u20132,499): Invitations to tournaments, cruise discounts<\/p>\n<p> 3. Premium (2,500\u201314,999): Complimentary room upgrades, early ticket access<\/p>\n<p> 4. Summit (15,000+): Free hotel nights, waived resort fees, VIP privileges<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Extra Perks<\/h4>\n\n\n        <ul>\n            <li>\u2022 New member offers (e.g., up to $2,500 Slot Play)\n<\/li>\n            <li>\u2022 Exclusive event invitations and presale access\n<\/li>\n            <li>\u2022 Rewards usable across 12 Great Canadian Entertainment destinations <\/li>\n       \n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Woodbine Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers\n<\/h3>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Welcome Bonuses<\/h4>\n\n\n        <ul>\n            <li>\u2022 Up to 300% on first deposit + free spins\n<\/li>\n            <li>\u2022 Promo codes for free slot play <\/li>\n            \n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Gaming Promotions<\/h4>\n        <ul>\n            <li>\u2022 Slot and poker tournaments with cash prizes\n<\/li>\n            <li>\u2022 Jackpot draws for active players\n<\/li>\n            <li>\u2022 Horse racing bets with extra bonuses during major races <\/li>\n        <\/ul>\n        <br>\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment Deals<\/h4>\n        <ul>\n            <li>\u2022 Discounted concert and show tickets when purchased on-site\n<\/li>\n            <li>\u2022 Combo packages: gaming + dinner + live show\n<\/li>\n            <li>\u2022 VIP packages with lounge access and priority seating<\/li>\n        <\/ul>\n        <br>\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal Events<\/h4>\n        <ul>\n            <li>\u2022 New Year\u2019s Eve parties with live music and prize draws\n<\/li>\n            <li>\u2022 Summer festivals featuring outdoor entertainment and food zones\n<\/li>\n            <li>\u2022 Major sports events screenings with themed promotions\n<\/li>\n<li>\u2022 Halloween and themed parties with costume contests and bonuses [allevents.in]<\/li>\n        <\/ul>\n        <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Woodbine Casino\n<\/h3>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Slots<\/h4>\n\n\n        <ul>\n            <li>\u2022 Classic slots: simple 3-reel machines for traditional play.\n<\/li>\n            <li>\u2022 Video slots: 5- and 6-reel games with bonus rounds, free spins, and dynamic features.\n<\/li>\n            <li>\u2022 Progressive jackpots: prize pools grow with every bet. Popular titles:Mega Moolah, \nDivine Fortune, \nAge of the Gods: Jackpot\n\n<\/li>\n            <li>\u2022 Special features: cascading reels, Megaways (up to 117,649 ways to win), multipliers, expanding symbols.<\/li>\n\t    \n        <\/ul><br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Table Games<\/h4>\n         <ul>\n            <li>\u2022 Blackjack: multiple variations of this classic card game.\n<\/li>\n            <li>\u2022 Roulette: European and American versions.\n<\/li>\n            <li>\u2022 Baccarat: a favorite among high rollers.\n<\/li>\n<li>\u2022 Craps: dice-based excitement.\n<\/li>\n            <li>\u2022 Sic Bo: Asian dice game.\n<\/li>\n            <li>\u2022 Electronic tables: automated gaming for convenience. <\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Poker<\/h4>\n        <ul>\n            <li>\u2022 Texas Hold\u2019em and other variants.\n<\/li>\n            <li>\u2022 Video poker: combines slot mechanics with poker strategy.<\/li>\n           \n        <\/ul>\n       \n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Horse Racing Bets<\/h4>\n        <p>\n           Direct access to Woodbine Racetrack for live race betting and simulcasts.\n        <\/p>\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Woodbine Casino\n\n<\/h3>\n\n<p> Woodbine Casino offers a wide range of betting limits suitable for casual players and high rollers. Here are the main limits for popular games:<\/p>\n\n<br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#999494; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.10 per spin <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100 per spin <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $2,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $5,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $10,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Craps<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$3,000<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Horse Racing Bets<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">varies by event<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<p>Highlights:<\/p>\n<ul>\n            <li>\u2022 VIP areas available for higher stakes.\n<\/li>\n            <li>\u2022 Electronic tables feature lower minimum bets than live games.\n<\/li>\n            <li>\u2022 Progressive slots can award jackpots even on minimum bets. [scams.info]<\/li>\n        <\/ul>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and entertainment at Woodbine Casino\n<\/h3>\n\n<p> At Woodbine Casino, part of the Great Canadian Casino Resort Toronto, entertainment is curated as a continuous experience that fuses the gaming floor with live culture, nightlife, and racetrack heritage. The daily pulse is driven by recurring evening music programming across restaurants and lounges, where weekend live sets, DJs, and a crafted cocktail culture shape a club\u2011like ambiance without leaving the resort. This predictable \u201cweekend rhythm\u201d is deliberately designed to keep guests flowing between play, dining, and sound, turning casual visits into planned nights out and giving regulars a reliable nightlife anchor inside the complex.<\/p>\n<br>\n<p> The backbone for marquee shows is The Theatre at Great Canadian Casino Resort Toronto, a modern venue whose calendar reads like a city headliner list. Tour stops by international artists, high\u2011energy pop and rock productions, and multi\u2011show comedy runs routinely appear on the schedule, allowing guests to pair a ticketed performance with gaming and dinner in a single, walkable itinerary.<\/p>\n<br>\n<p> Nightlife is intentionally woven into the resort\u2019s hospitality fabric. Lounges operate as refined nightclubs, emphasizing DJ\u2011driven sets, signature mixology, and intimate seating that can pivot from pre\u2011show warm\u2011ups to post\u2011show after\u2011hours. VIP\u2011adjacent areas complement the high\u2011limit gaming experience, offering privacy and upgraded service for guests who want seamless transitions from tables to late\u2011night ambience. This configuration mirrors Toronto\u2019s late\u2011dining culture, aligning bar hours and music programming so that the evening unfolds as a single narrative: a bet, a bite, a show, and a dance floor\u2014without ever hailing a cab. [greatcanadian.com]<\/p>\n<br>\n<p> The racetrack dimension gives the property a festival\u2011like identity on big race days. Live racing at Woodbine transforms the grounds into city\u2011wide celebrations featuring daytime DJs, fashion\u2011forward traditions like the Hats & Horseshoes party, invited performers, and extended entertainment blocks through the evening. Signature fixtures such as the King\u2019s Plate integrate live music directly into the sporting spectacle, creating a unique crossover where adrenaline from the grandstand rolls into the casino\u2019s nightlife just steps away, a seasonal draw that few urban resorts can replicate.<\/p>\n<br>\n<p> Seasonal tent\u2011poles round out the calendar. Halloween weekends, New Year\u2019s Eve, and major sports finals are staged as themed nights with d\u00e9cor, limited\u2011time menus, and entertainment accents, often syndicated across city listings and ticketing hubs connected to Woodbine and nearby halls. For guests, this means highly discoverable \u201chot dates\u201d that can be planned well in advance, with a focus on show\u2011driven evenings rather than gaming alone\u2014very much in line with North American resort\u2011casino playbooks at scale.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRestaurants, Bars, and Relaxation at Woodbine Casino\n<\/h3>\n\n<p> Woodbine Casino is not just about gaming; it\u2019s a full-scale hospitality experience. The resort features multiple dining options, including the Woodbine Club Restaurant, which offers a private club ambiance and panoramic racetrack views. Guests can enjoy continental cuisine in an elegant setting with a dress code that emphasizes sophistication: collared shirts, tailored trousers, dresses, and closed shoes. For those seeking a more casual vibe, there are restaurants serving diverse menus\u2014from Asian specialties to European classics\u2014alongside bars offering signature cocktails and curated wine lists. A convenient food court is also available for quick bites between games.<\/p>\n<br>\n<p> The on-site hotel boasts over 400 rooms designed with modern elegance. Guests can enjoy panoramic racetrack views, spacious accommodations with premium amenities such as free Wi-Fi, coffee machines, rain showers, and plush robes. The hotel includes relaxation zones like an indoor pool, a fitness center, and a wellness area for ultimate comfort. An internal corridor connects the hotel to the casino, allowing guests to move seamlessly without stepping outside\u2014a major advantage during colder months.<\/p>\n<br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How do I register at the casino?",
+                    "answer": "You can register at Guest Services or online via the official website. A valid photo ID is required.\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, debit and credit cards, and bank transfers for VIP guests.\n"
+                },
+                {
+                    "title": "Can I use foreign currency?",
+                    "answer": "All transactions are in Canadian dollars. Currency exchange is available on-site.\n"
+                },
+                {
+                    "title": "What languages are supported?",
+                    "answer": "English is primary. Staff can assist in French and occasionally other languages.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/284",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Woodbine Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
